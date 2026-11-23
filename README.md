@@ -16,6 +16,9 @@ Designing local-first desktop software, autonomous AI workflows, and production-
 
 [![X (@albertdilas)](https://img.shields.io/badge/X-@albertdilas-0C0C0E?style=flat-square&logo=x&logoColor=FAF9F7)](https://x.com/albertdilas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert%20Dilas-0C0C0E?style=flat-square&logo=linkedin&logoColor=FAF9F7)](https://www.linkedin.com/in/albert-dilas/)
+[![YouTube](https://img.shields.io/badge/YouTube-@albertdilas--dev-0C0C0E?style=flat-square&logo=youtube&logoColor=E04826)](https://www.youtube.com/@albertdilas-dev)
+[![TikTok](https://img.shields.io/badge/TikTok-@albertdilasdev-0C0C0E?style=flat-square&logo=tiktok&logoColor=FAF9F7)](https://www.tiktok.com/@albertdilasdev)
+[![Instagram](https://img.shields.io/badge/Instagram-@albertdilasdev-0C0C0E?style=flat-square&logo=instagram&logoColor=FAF9F7)](https://www.instagram.com/albertdilasdev/)
 [![Reddit](https://img.shields.io/badge/Reddit-u%2FExpertViolinist1457-0C0C0E?style=flat-square&logo=reddit&logoColor=E04826)](https://www.reddit.com/user/ExpertViolinist1457/)
 [![Tornio Release](https://img.shields.io/badge/Latest%20Release-Tornio%20v3.0.0-E04826?style=flat-square)](https://github.com/albert-dilas/Tornio/releases/tag/v3.0.0)
 

@@ -52,6 +52,14 @@ Designing local-first desktop software, autonomous AI workflows, and production-
 | **[Coucou](https://github.com/albert-dilas/coucou)** | Lightweight screen-top companion for monitoring autonomous coding agents (`Claude Code`, `Codex`, `Cursor`, `Gemini CLI`, `Antigravity`). | Active |
 | **Voice, Reading & Agent Tooling** | Private offline text-to-audio synchronization, soundscape engines, and autonomous systems currently in active engineering. | In Development |
 
+<br />
+
+<div align="center">
+  <a href="https://albert-dilas.github.io/Tornio/">
+    <img src="assets/tornio_social_preview.png" alt="Tornio v3.0.0 — Carbon Dark & Porcelain Light Showcase" width="88%" />
+  </a>
+</div>
+
 ---
 
 ### Engineering Principles

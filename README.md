@@ -15,7 +15,7 @@ Designing local-first desktop software, autonomous AI workflows, and production-
 <br />
 
 [![X (@albertdilas)](https://img.shields.io/badge/X-@albertdilas-0C0C0E?style=flat-square&logo=x&logoColor=FAF9F7)](https://x.com/albertdilas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert%20Dilas-0C0C0E?style=flat-square&logo=linkedin&logoColor=FAF9F7)](https://www.linkedin.com/in/albert-dilas-b56ba9217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert%20Dilas-0C0C0E?style=flat-square&logo=linkedin&logoColor=FAF9F7)](https://www.linkedin.com/in/albert-dilas/)
 [![Reddit](https://img.shields.io/badge/Reddit-u%2FExpertViolinist1457-0C0C0E?style=flat-square&logo=reddit&logoColor=E04826)](https://www.reddit.com/user/ExpertViolinist1457/)
 [![Tornio Release](https://img.shields.io/badge/Latest%20Release-Tornio%20v3.0.0-E04826?style=flat-square)](https://github.com/albert-dilas/Tornio/releases/tag/v3.0.0)
 
@@ -49,7 +49,6 @@ Designing local-first desktop software, autonomous AI workflows, and production-
 | System | Description & Architecture | Status |
 | :--- | :--- | :--- |
 | **[Tornio](https://github.com/albert-dilas/Tornio)** | **Local-First Media & Document Workbench** (`FastAPI / Next.js / FFmpeg / ONNX`)<br>58 offline tools across 7 Studios (PDF & OCR, Video, Audio, Images, Crypto Vault, Local CPU AI, Anti-SSRF Web Capture) running on `127.0.0.1` with `SHA-256` verified updates. | **`v3.0.0`** · Apache 2.0<br>[Interactive 3D Site](https://albert-dilas.github.io/Tornio/) · [Releases](https://github.com/albert-dilas/Tornio/releases/tag/v3.0.0) |
-| **[Coucou](https://github.com/albert-dilas/coucou)** | Lightweight screen-top companion for monitoring autonomous coding agents (`Claude Code`, `Codex`, `Cursor`, `Gemini CLI`, `Antigravity`). | Active |
 | **Voice, Reading & Agent Tooling** | Private offline text-to-audio synchronization, soundscape engines, and autonomous systems currently in active engineering. | In Development |
 
 <br />
